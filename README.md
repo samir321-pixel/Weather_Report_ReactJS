@@ -4,7 +4,8 @@
 <h1 align="center">Weather_Report_ReactJS</h1>
 
 ## Introduction
-* In this repo, I am creating simple Weather app with React..
+* In this repo, I am creating simple Weather app with React.
+* It will asks you to enter City it will show you weather report for that city.
 
 ## Technology Stack
 * Backend
