@@ -42,7 +42,7 @@ npm install
 ```bash
 npm start
 ```
-The project will be available at **http://localhost:3000/welcome**.
+The project will be available at **http://localhost:3000/*.
 
 ## 🌏 Browser Support
 
