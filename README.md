@@ -60,7 +60,7 @@ The project will be available at **http://localhost:3000/welcome**.
 
 ## Like This?? Star ⭐ this Repo.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/samir321-pixel/Library_with_Django_Rest)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://github.com/samir321-pixel/Library_with_Django_Rest)
 
 > Made By Samir Saitwal with ❤️
 
